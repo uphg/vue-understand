@@ -78,7 +78,7 @@ export default [
         name: 'v-model',
         component: VModel,
         meta: {
-            title: 'v-model 案例'
+            title: 'v-model 原理案例'
         }
     }
 ]
